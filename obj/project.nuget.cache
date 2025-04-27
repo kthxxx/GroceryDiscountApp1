@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r4E1afG5oN8=",
+  "success": true,
+  "projectFilePath": "D:\\Programs\\git\\GroceryDiscountApp\\GroceryDiscountApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeric\\.nuget\\packages\\questpdf\\2025.4.0\\questpdf.2025.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
