@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
+    <Compile Update="Aboutus.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="components\.Designer.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -67,28 +70,37 @@
     <Compile Update="components\Watermelon.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Update="controller\ProductDetailsControl.cs">
+    <Compile Update="components\Widgets.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Update="interfaces\Confirmation.cs">
+    <Compile Update="Confirmation.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="interfaces\FinalReceipt.cs">
+    <Compile Update="Contactus.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="interfaces\Form1.cs">
+    <Compile Update="Database.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="interfaces\Login.cs">
+    <Compile Update="FinalReceipt.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="interfaces\Receipt.cs">
+    <Compile Update="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="interfaces\ReceiptItem.cs">
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProductDetailsControl.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Update="interfaces\Welcom.cs">
+    <Compile Update="Receipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReceiptItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Welcom.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

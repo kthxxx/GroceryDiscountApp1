@@ -9,6 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Bunifu.UI.WinForms" Version="9.0.0" />
     <PackageReference Include="QuestPDF" Version="2025.4.0" />
   </ItemGroup>
 
